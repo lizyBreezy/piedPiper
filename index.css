@@ -1,0 +1,78 @@
+.header {
+    background-color: #007765;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+.headerMenu {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+.pnih {
+    background-image: url(img/image.png);
+    height: 403px;
+    display: flex; 
+    flex-direction:  row;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    
+    font-size: 72px
+   
+}
+.theProblem {
+
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 32px;
+    padding: 0 10% 10% 10%;
+}
+
+h2 {
+    display: flex; 
+    flex-direction:  row;
+    justify-content: center;
+        
+    color: rgb(110, 34, 110);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 75px;
+    padding: 0 5% 0 5%
+}
+
+
+.Hero{
+    background: url("img/imagee.png");
+    height: 403px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 48px;
+    font-style: italic;
+    color: white;
+    display: flex; 
+    flex-direction:  row;
+    justify-content: center;
+    align-items: center;f
+    padding: 0 20% 0 20%;
+    
+}
+.Hero p {
+    text-align: center;
+    font-weight: bold ;
+}
+.ppc img {
+    float: left;
+    margin-right: 30px;
+}
+.ppc {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 32px;
+    align-items: center;
+    padding: 0 20% 0 20%
+    
+}
+.pp {
+
+}
